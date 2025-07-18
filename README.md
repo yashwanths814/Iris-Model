@@ -71,4 +71,9 @@ This project uses **Logistic Regression**, a supervised learning algorithm commo
    git clone https://github.com/yashwanths814/Iris-Model.git
    cd Iris-Model
 
+## 📚 References
+
+- <a href="https://archive.ics.uci.edu/ml/datasets/iris" target="_blank">UCI Machine Learning Repository – Iris Dataset</a>  
+- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html" target="_blank">Scikit-learn: Logistic Regression</a>
+
    
